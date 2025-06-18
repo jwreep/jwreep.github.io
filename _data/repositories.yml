@@ -4,3 +4,8 @@ github_users:
 github_repos:
   - jwreep/ebtel_abundances
   - USNavalResearchLaboratory/flare_duration_forecasting
+  - rice-solar-physics/HYDRAD
+  - rice-solar-physics/pydrad
+  - rice-solar-physics/ebtelplusplus
+  - wtbarnes/fiasco
+  - plasmapy/plasmapy
