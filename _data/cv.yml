@@ -30,7 +30,7 @@
   contents:
     - title: Assistant Astronomer
       institution: Institute for Astronomy, University of Hawai'i at Mānoa, Pukalani, HI, USA
-      year: 2023 - present 
+      year: 2023 - present
 
     - title: Astrophysicist
       institution: Space Sciences Division, US Naval Research Laboratory, Washington, DC, USA
@@ -42,8 +42,7 @@
 
     - title: Postdoctoral Research Associate
       institution: Department of Applied Mathematics and Theoretical Physics, Cambridge University, Cambridge, UK
-      year: 2015 - 2015 
-
+      year: 2015 - 2015
 
 - title: Honors and Awards
   type: time_table
@@ -70,7 +69,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 
 - title: Academic Interests
   type: nested_list

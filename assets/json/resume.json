@@ -13,7 +13,7 @@
       "city": "Pukalani",
       "countryCode": "US",
       "region": "Hawai'i"
-    },
+    }
   },
   "work": [
     {
@@ -34,7 +34,7 @@
       "area": "Solar Physics",
       "studyType": "MS, PhD",
       "startDate": "2009",
-      "endDate": "2014",
+      "endDate": "2014"
     },
     {
       "institution": "Cornell University",
@@ -43,7 +43,7 @@
       "area": "Astronomy; Mathematics",
       "studyType": "BA",
       "startDate": "2004",
-      "endDate": "2008",
+      "endDate": "2008"
     }
   ],
   "skills": [
@@ -74,5 +74,5 @@
         "Quantum Teleportation"
       ]
     }
-  ],
+  ]
 }
