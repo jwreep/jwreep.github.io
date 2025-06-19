@@ -28,7 +28,7 @@
   ],
   "education": [
     {
-      "institution": "Rice University,
+      "institution": "Rice University",
       "location": "Houston, TX, USA",
       "url": "https://physics.rice.edu/",
       "area": "Solar Physics",
@@ -37,7 +37,7 @@
       "endDate": "2014",
     }
     {
-      "institution": "Cornell University,
+      "institution": "Cornell University",
       "location": "Ithaca, NY, USA",
       "url": "https://astro.cornell.edu/",
       "area": "Astronomy; Mathematics",
