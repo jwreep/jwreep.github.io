@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://about.ifa.hawaii.edu/'>Institute for Astronomy, University of Hawai'i</a> 
+subtitle: Institute for Astronomy, University of Hawai'i
 
 profile:
   align: right
