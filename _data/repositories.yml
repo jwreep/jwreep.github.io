@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jwreep
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jwreep/ebtel_abundances
+  - USNavalResearchLaboratory/flare_duration_forecasting
+  - rice-solar-physics/HYDRAD
+  - rice-solar-physics/pydrad
+  - rice-solar-physics/ebtelplusplus
+  - wtbarnes/fiasco
+  - plasmapy/plasmapy
