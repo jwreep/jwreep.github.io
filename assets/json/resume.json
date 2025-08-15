@@ -19,18 +19,40 @@
     {
       "name": "Institute for Astronomy, University of Hawai'i at Manoa",
       "position": "Assistant Astronomer",
-      "url": "",
+      "location": "Pukalani, HI, USA",
+      "url": "https://people.ifa.hawaii.edu/faculty/bio/jeffrey-reep/",
       "startDate": "2023-12",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "",
       "highlights": [""]
     },
     {
       "name": "US Naval Research Laboratory",
       "position": "Astrophysicist",
+      "location": "Washington, DC, USA",
       "url": "",
       "startDate": "2018-04",
       "endDate": "2023-11",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "US Naval Research Laboratory",
+      "position": "National Research Council Postdoctoral Fellow",
+      "location": "Washington, DC, USA",
+      "url": "",
+      "startDate": "2015-05",
+      "endDate": "2018-04",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "University of Cambridge",
+      "position": "Postdoctoral Research Associate",
+      "location": "Cambridge, Cambridgeshire, UK",
+      "url": "",
+      "startDate": "2015-01",
+      "endDate": "2015-05",
       "summary": "",
       "highlights": [""]
     }
